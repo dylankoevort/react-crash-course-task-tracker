@@ -7,7 +7,7 @@ https://youtu.be/w7ejDZ8SWv8
 npm run server
 
 ### Run Client Development Build
-npm run start
+npm start
 
 Commit One:
   - UI Complete with Static data
