@@ -31,3 +31,6 @@ npm run build
 
 Commit One:
   - UI Complete with Static data
+
+Commit Two:
+  - v6 Routing, TaskDetails + About screens
