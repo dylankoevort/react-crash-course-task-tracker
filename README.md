@@ -34,3 +34,5 @@ Commit One:
 
 Commit Two:
   - v6 Routing, TaskDetails + About screens
+
+Fully Functional
