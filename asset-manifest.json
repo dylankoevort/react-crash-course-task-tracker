@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-crash-course-task-tracker/static/css/main.31cd00b7.css",
+    "main.js": "/react-crash-course-task-tracker/static/js/main.115c1a67.js",
+    "index.html": "/react-crash-course-task-tracker/index.html",
+    "main.31cd00b7.css.map": "/react-crash-course-task-tracker/static/css/main.31cd00b7.css.map",
+    "main.115c1a67.js.map": "/react-crash-course-task-tracker/static/js/main.115c1a67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd00b7.css",
+    "static/js/main.115c1a67.js"
+  ]
+}
