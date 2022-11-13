@@ -3,6 +3,10 @@
 ### React JS Crash Course - Traversy Media
 https://youtu.be/w7ejDZ8SWv8
 
+### [Live Demo](https://dylankoevort.github.io/react-crash-course-task-tracker/)
+
+![Screenshot](screenshot.png)
+
 ## Usage
 
 ### Install dependencies
