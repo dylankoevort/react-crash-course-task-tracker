@@ -5,7 +5,8 @@ https://youtu.be/w7ejDZ8SWv8
 
 ### [Live Demo](https://dylankoevort.github.io/react-crash-course-task-tracker/)
 
-![Screenshot](screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/61375569/201525907-26458e4e-7727-4b62-a4f6-93fe9603e515.png)
+
 
 ## Usage
 
